@@ -1,0 +1,26 @@
+.joke{
+    font-size: 20px;
+    text-indent: 50px;
+    background-color: snow;
+    outline: 2px groove black;
+    margin-top: 20px;
+}
+
+.error{
+    font-size: 20px;
+    font-weight: bold;
+    text-indent: 50px;
+    color: red;
+    background-color: snow;
+    outline: 2px groove black;
+}
+
+.get-joke{
+    position: relative;
+    left: 500px;
+    top: 30px;
+    font-size: 20px;
+    background-color: lightgray;
+    outline: 2px solid black;
+    border: 3px solid #999;
+}
